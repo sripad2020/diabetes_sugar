@@ -1,0 +1,1001 @@
+Age,Gender,Genetic,Lifestyle,Eduration,Area,BMI,Stress,Diabetic,FBS,PPBS
+37,M,No,Sedentary,37,Urban,22,Normal,No,116,203
+26,F,Yes,Normal,25,Metro,26,High,No,97,169
+52,M,Yes,Normal,50,Urban,24,High,Yes,151,264
+27,M,No,Sedentary,52,Urban,20,High,Border,116,203
+65,M,No,Sedentary,46,Metro,24,Normal,Yes,163,286
+51,F,Yes,Normal,29,Metro,20,Normal,No,123,215
+23,M,No,Sedentary,20,Metro,22,High,No,82,143
+40,M,No,Sedentary,35,Metro,25,Normal,Border,123,214
+27,F,Yes,Sedentary,37,Metro,21,Normal,No,102,179
+39,M,Yes,Sedentary,31,Metro,24,High,Yes,116,203
+52,F,Yes,Normal,59,Metro,19,High,Yes,153,267
+23,F,No,Sedentary,38,Metro,27,Normal,No,107,188
+32,F,Yes,Sedentary,44,Metro,22,Normal,Border,117,205
+26,F,Yes,Normal,48,Metro,22,Normal,No,114,199
+27,F,No,Normal,51,Urban,21,Normal,No,116,203
+36,M,Yes,Normal,48,Urban,26,Normal,Border,132,231
+29,M,Yes,Sedentary,53,Urban,19,Normal,Border,118,206
+74,F,Yes,Normal,54,Urban,25,High,Yes,184,322
+62,M,Yes,Normal,58,Urban,25,High,Yes,173,303
+68,F,Yes,Normal,22,Urban,20,High,Border,137,240
+49,F,No,Normal,59,Urban,27,High,Yes,161,281
+74,F,Yes,Normal,20,Metro,27,Normal,Border,153,268
+35,F,Yes,Normal,52,Urban,26,High,Yes,135,236
+42,F,No,Sedentary,32,Urban,26,Normal,No,124,216
+73,M,No,Normal,43,Urban,26,High,Yes,173,303
+52,M,Yes,Normal,50,Urban,21,High,Yes,147,256
+38,F,Yes,Normal,23,Urban,27,High,No,111,194
+47,F,No,Normal,34,Urban,20,Normal,No,123,215
+57,M,No,Normal,35,Urban,26,Normal,Border,145,254
+55,M,No,Sedentary,51,Metro,24,High,Yes,156,273
+58,M,Yes,Sedentary,37,Metro,27,High,Yes,150,263
+47,M,Yes,Normal,41,Metro,19,Normal,Border,128,224
+67,F,No,Normal,44,Urban,27,Normal,Border,168,294
+32,F,Yes,Normal,29,Metro,26,Normal,No,108,189
+29,F,No,Normal,29,Urban,20,Normal,No,95,167
+56,F,No,Sedentary,49,Metro,27,High,Yes,160,279
+74,F,Yes,Normal,34,Metro,26,High,Yes,166,290
+32,M,No,Normal,21,Metro,22,Normal,No,94,165
+34,M,Yes,Sedentary,51,Urban,26,Normal,Yes,133,232
+24,F,No,Normal,27,Urban,27,High,No,98,171
+36,M,Yes,Normal,30,Urban,23,High,Border,110,192
+75,M,Yes,Sedentary,30,Metro,20,High,Yes,154,269
+49,F,No,Normal,40,Metro,22,High,Border,134,235
+40,F,Yes,Normal,47,Urban,22,High,Border,130,228
+51,F,Yes,Normal,30,Urban,27,Normal,Border,134,235
+53,M,Yes,Normal,38,Metro,21,High,Yes,136,238
+30,M,Yes,Sedentary,55,Urban,23,High,Yes,127,222
+63,M,Yes,Normal,29,Urban,23,Normal,Border,142,249
+55,F,No,Normal,52,Metro,20,Normal,Border,151,264
+32,F,Yes,Normal,47,Urban,24,High,Border,123,215
+69,F,Yes,Normal,22,Urban,22,Normal,No,141,247
+58,M,No,Sedentary,40,Urban,26,High,Yes,152,265
+54,F,No,Sedentary,30,Metro,22,High,Border,131,228
+68,M,No,Sedentary,40,Metro,24,High,Yes,161,282
+33,F,Yes,Sedentary,43,Urban,27,Normal,Border,125,218
+49,F,No,Normal,20,Urban,25,High,No,119,208
+67,F,Yes,Sedentary,45,Urban,27,High,Yes,169,296
+58,F,Yes,Normal,59,Metro,20,High,Yes,162,283
+72,M,No,Normal,48,Urban,26,Normal,Border,177,310
+63,F,Yes,Normal,32,Metro,26,High,Yes,150,262
+20,M,Yes,Normal,60,Metro,22,Normal,Border,118,207
+33,F,No,Sedentary,53,Metro,22,Normal,No,127,223
+75,F,Yes,Normal,50,Urban,20,High,Yes,174,304
+64,M,No,Normal,57,Metro,20,High,Yes,167,292
+72,M,Yes,Normal,23,Metro,22,High,Yes,146,256
+51,F,No,Sedentary,29,Urban,26,High,Border,132,231
+32,F,Yes,Normal,60,Metro,24,High,Yes,136,238
+64,F,Yes,Sedentary,49,Urban,22,Normal,Yes,162,284
+60,F,Yes,Sedentary,30,Urban,19,High,Border,134,234
+29,F,Yes,Sedentary,36,Urban,19,Normal,No,101,176
+53,M,No,Normal,49,Urban,24,Normal,Border,151,265
+62,F,No,Sedentary,28,Urban,21,High,Border,137,240
+49,M,No,Normal,49,Urban,26,Normal,Border,149,261
+71,F,Yes,Normal,31,Metro,21,High,Yes,151,265
+65,F,No,Normal,46,Metro,23,High,Yes,162,283
+65,M,No,Normal,40,Metro,26,High,Yes,160,280
+30,F,No,Normal,27,Metro,24,High,No,101,176
+69,M,Yes,Normal,42,Urban,24,High,Yes,164,287
+61,M,No,Normal,32,Urban,23,Normal,No,143,250
+28,M,Yes,Normal,35,Metro,24,High,Border,106,186
+61,F,No,Normal,31,Urban,27,Normal,No,148,259
+69,M,Yes,Normal,25,Urban,22,Normal,Border,144,252
+56,F,Yes,Normal,36,Metro,25,Normal,Border,144,251
+22,M,Yes,Normal,22,Urban,22,Normal,No,83,144
+52,F,No,Sedentary,32,Metro,23,Normal,No,132,230
+43,M,No,Normal,40,Metro,24,Normal,No,130,227
+65,F,No,Normal,57,Metro,25,Normal,Yes,176,308
+54,M,No,Normal,21,Metro,25,High,Border,126,221
+67,F,Yes,Normal,39,Urban,26,High,Yes,162,283
+68,M,No,Sedentary,31,Urban,20,Normal,Border,146,256
+72,M,No,Sedentary,53,Metro,26,High,Yes,182,319
+39,F,No,Normal,56,Urban,23,Normal,No,139,244
+26,M,Yes,Sedentary,34,Metro,26,Normal,Border,106,185
+60,M,No,Sedentary,49,Urban,21,High,Yes,156,272
+41,M,Yes,Sedentary,23,Urban,26,Normal,Border,113,198
+70,F,No,Sedentary,48,Urban,25,Normal,Border,173,303
+26,M,Yes,Normal,32,Urban,23,Normal,No,99,173
+44,M,Yes,Normal,36,Metro,19,High,Border,120,209
+73,F,Yes,Normal,45,Metro,24,Normal,Yes,172,301
+43,F,No,Normal,21,Metro,22,High,No,108,189
+40,M,Yes,Normal,37,Urban,21,High,Border,119,207
+20,M,Yes,Normal,35,Metro,20,High,No,90,158
+25,F,Yes,Sedentary,59,Metro,22,High,Yes,123,216
+37,M,Yes,Normal,44,Metro,22,Normal,Border,123,216
+35,F,Yes,Normal,46,Urban,21,Normal,No,121,212
+61,M,No,Normal,31,Metro,25,High,Border,145,253
+18,M,Yes,Normal,44,Metro,24,Normal,No,103,179
+46,F,Yes,Normal,42,Urban,22,Normal,Border,133,232
+30,M,No,Normal,59,Urban,26,Normal,No,136,237
+56,F,Yes,Normal,40,Urban,24,High,Yes,146,256
+38,F,Yes,Normal,42,Urban,23,Normal,Border,124,217
+62,F,No,Normal,38,Urban,25,High,Border,153,268
+22,F,Yes,Normal,59,Metro,25,High,Border,124,217
+36,M,Yes,Sedentary,22,Urban,24,High,Border,103,180
+21,F,Yes,Sedentary,35,Urban,26,Normal,No,100,175
+43,F,Yes,Normal,51,Metro,24,Normal,Border,141,246
+48,F,No,Normal,56,Urban,19,High,Border,145,253
+29,M,No,Normal,48,Metro,25,Normal,No,122,213
+47,M,Yes,Normal,22,Urban,19,High,No,109,191
+40,M,No,Sedentary,26,Metro,19,Normal,No,105,183
+66,F,Yes,Normal,36,Urban,22,High,Yes,152,265
+48,M,Yes,Sedentary,26,Urban,24,High,Yes,122,214
+26,M,No,Sedentary,27,Urban,27,High,No,100,175
+28,M,Yes,Normal,30,Metro,25,High,Border,103,179
+33,M,Yes,Sedentary,51,Urban,24,Normal,Border,128,224
+47,F,No,Normal,57,Urban,24,High,Border,152,266
+61,F,No,Normal,47,Urban,26,High,Yes,162,284
+70,F,No,Sedentary,54,Metro,23,Normal,Yes,176,308
+53,F,No,Normal,46,Urban,27,High,Border,153,267
+75,M,No,Normal,21,Metro,24,Normal,No,151,264
+60,F,Yes,Normal,60,Urban,19,High,Yes,164,286
+23,F,Yes,Normal,47,Urban,21,Normal,No,107,188
+60,M,No,Normal,53,Urban,23,Normal,Border,163,284
+38,M,Yes,Sedentary,46,Urban,24,High,Yes,130,227
+61,M,No,Normal,27,Urban,26,High,Border,142,249
+18,M,Yes,Sedentary,41,Metro,24,High,Border,100,174
+69,F,No,Normal,55,Metro,25,High,Yes,179,313
+64,M,Yes,Normal,50,Metro,27,High,Yes,171,298
+35,F,No,Normal,25,Urban,22,High,No,102,178
+19,F,No,Normal,52,Metro,19,Normal,No,104,182
+63,F,No,Sedentary,36,Urban,26,High,Border,154,269
+43,F,No,Normal,40,Metro,20,High,Border,124,217
+68,F,No,Normal,37,Metro,27,High,Yes,163,284
+52,M,No,Sedentary,52,Urban,26,High,Yes,156,273
+54,F,Yes,Normal,54,Metro,21,High,Yes,153,268
+68,M,Yes,Normal,37,Urban,27,High,Yes,163,284
+72,F,Yes,Sedentary,31,Metro,20,High,Yes,151,264
+33,M,No,Normal,33,Metro,20,High,No,104,182
+59,F,No,Sedentary,50,Metro,22,Normal,Border,157,274
+37,M,No,Normal,44,Urban,24,High,Border,126,221
+33,F,Yes,Normal,20,Urban,27,High,No,102,178
+21,M,No,Normal,20,Metro,21,High,No,78,136
+22,M,No,Sedentary,34,Urban,20,Normal,No,92,160
+59,M,No,Normal,31,Metro,24,Normal,Border,141,246
+42,M,Yes,Normal,34,Metro,26,High,Yes,126,220
+60,F,No,Sedentary,30,Urban,20,Normal,No,135,236
+36,F,No,Sedentary,40,Urban,19,High,No,114,199
+30,M,Yes,Normal,24,Urban,23,High,No,96,168
+59,F,No,Normal,58,Urban,23,High,Yes,166,291
+71,F,Yes,Sedentary,33,Urban,26,High,Yes,161,281
+62,F,Yes,Sedentary,60,Urban,25,High,Yes,175,306
+64,M,No,Normal,58,Urban,23,High,Yes,173,302
+71,M,No,Normal,58,Urban,22,High,Yes,180,315
+53,F,Yes,Normal,45,Metro,22,High,Yes,144,252
+68,F,No,Normal,49,Metro,21,High,Yes,166,290
+40,M,No,Normal,30,Urban,22,High,No,113,198
+43,F,No,Sedentary,33,Metro,27,High,Border,127,223
+67,F,Yes,Normal,57,Metro,25,Normal,Yes,178,312
+32,F,Yes,Sedentary,39,Metro,21,High,Border,111,193
+52,F,No,Sedentary,39,Urban,26,High,Border,143,250
+68,F,No,Sedentary,37,Urban,19,High,Border,151,263
+42,M,No,Sedentary,60,Urban,25,Normal,Border,150,263
+49,M,No,Sedentary,54,Urban,24,Normal,Border,151,265
+21,M,Yes,Normal,40,Urban,20,High,No,96,168
+21,M,No,Sedentary,31,Urban,23,Normal,No,92,161
+69,M,Yes,Normal,20,Metro,20,Normal,Border,136,238
+62,F,No,Normal,44,Urban,23,High,Border,156,273
+45,M,Yes,Normal,43,Metro,22,High,Yes,132,231
+65,M,Yes,Normal,26,Metro,19,Normal,Border,136,238
+63,M,No,Sedentary,54,Metro,19,Normal,Yes,161,282
+31,M,Yes,Normal,43,Urban,22,High,Border,115,201
+36,F,Yes,Sedentary,45,Urban,27,Normal,Border,131,228
+64,F,Yes,Sedentary,51,Urban,26,High,Yes,170,298
+73,F,No,Normal,21,Metro,22,High,Border,145,254
+61,M,No,Sedentary,39,Metro,19,High,Yes,144,252
+63,F,Yes,Normal,58,Urban,26,High,Yes,176,308
+23,M,No,Normal,39,Urban,25,High,No,105,184
+66,F,Yes,Normal,54,Metro,20,High,Yes,167,291
+70,F,No,Normal,34,Metro,26,Normal,Border,161,281
+28,F,No,Sedentary,26,Urban,27,High,No,102,178
+32,F,Yes,Normal,39,Urban,26,Normal,No,118,207
+23,M,No,Normal,24,Metro,19,High,No,81,142
+30,M,Yes,Normal,31,Metro,19,Normal,No,97,170
+37,M,Yes,Normal,51,Metro,25,Normal,Yes,135,236
+37,M,No,Sedentary,54,Metro,23,High,Yes,135,236
+46,F,Yes,Normal,45,Metro,24,High,Yes,139,242
+19,M,Yes,Normal,49,Urban,22,Normal,No,106,185
+62,M,No,Sedentary,41,Metro,21,Normal,Border,150,263
+40,M,Yes,Sedentary,26,Metro,25,Normal,Border,114,199
+47,F,Yes,Normal,23,Metro,21,High,Border,113,198
+32,M,Yes,Sedentary,33,Metro,19,Normal,Border,102,178
+60,F,Yes,Normal,53,Urban,25,High,Yes,166,290
+32,M,No,Normal,24,Metro,20,High,No,94,165
+23,F,Yes,Normal,32,Metro,20,High,No,91,159
+33,M,No,Sedentary,54,Metro,23,High,Border,130,227
+74,F,Yes,Normal,38,Metro,21,Normal,Yes,162,284
+31,M,No,Normal,50,Urban,23,High,Border,123,216
+22,F,No,Sedentary,51,Urban,24,Normal,No,115,200
+26,M,No,Sedentary,31,Metro,22,High,No,97,169
+60,M,No,Normal,51,Urban,23,Normal,Border,161,281
+60,M,Yes,Normal,37,Metro,25,High,Yes,150,262
+48,M,Yes,Normal,34,Metro,21,High,Yes,126,220
+71,M,Yes,Normal,44,Urban,23,Normal,Yes,167,293
+44,M,No,Normal,60,Urban,23,High,Border,150,262
+68,F,No,Normal,28,Urban,27,Normal,No,154,269
+47,F,No,Normal,46,Urban,19,Normal,No,133,233
+51,F,No,Sedentary,59,Metro,24,Normal,Border,159,278
+25,M,Yes,Normal,27,Urban,26,High,No,97,170
+21,F,Yes,Normal,59,Urban,26,Normal,No,124,217
+53,M,Yes,Sedentary,50,Metro,20,Normal,Yes,146,256
+70,M,No,Normal,24,Urban,22,Normal,No,145,253
+25,M,Yes,Normal,46,Urban,19,High,Border,106,185
+66,M,No,Sedentary,30,Urban,24,High,Border,149,260
+20,F,Yes,Normal,40,Metro,21,High,No,97,169
+47,F,No,Normal,42,Urban,26,Normal,No,140,245
+48,F,No,Sedentary,32,Urban,27,Normal,No,133,232
+33,M,Yes,Normal,43,Urban,22,Normal,Border,117,205
+44,F,Yes,Normal,29,Metro,21,Normal,No,116,202
+23,M,No,Normal,50,Metro,20,Normal,No,109,190
+35,F,Yes,Normal,42,Metro,25,Normal,Border,123,216
+61,F,No,Normal,51,Urban,24,Normal,Border,163,286
+70,M,Yes,Normal,28,Urban,21,High,Yes,147,257
+25,M,Yes,Normal,51,Urban,22,High,Border,115,202
+47,M,Yes,Normal,42,Urban,23,High,Yes,135,237
+52,M,No,Normal,54,Urban,21,High,Border,151,263
+55,F,Yes,Normal,37,Urban,24,Normal,Border,142,248
+65,F,Yes,Sedentary,39,Urban,19,Normal,Border,149,260
+62,F,No,Normal,35,Metro,22,High,Border,146,255
+41,F,Yes,Sedentary,36,Metro,23,Normal,Border,122,213
+28,M,Yes,Normal,41,Urban,26,Normal,No,115,201
+51,M,No,Normal,54,Urban,25,High,Yes,155,272
+20,M,No,Normal,33,Metro,23,Normal,No,93,162
+50,M,No,Sedentary,32,Metro,26,High,Yes,134,234
+46,F,Yes,Normal,26,Metro,27,High,Border,124,217
+28,M,No,Sedentary,39,Urban,26,Normal,No,113,198
+49,M,No,Normal,24,Urban,21,Normal,No,117,204
+75,M,Yes,Sedentary,60,Metro,27,High,Yes,194,340
+23,F,Yes,Normal,48,Urban,24,High,Border,113,197
+39,F,No,Normal,51,Metro,23,High,Border,134,235
+75,M,Yes,Sedentary,49,Urban,26,Normal,Yes,182,318
+51,F,Yes,Normal,48,Urban,22,High,Yes,145,253
+33,F,Yes,Normal,46,Metro,24,High,Border,123,216
+20,M,Yes,Normal,28,Metro,25,Normal,No,91,158
+55,M,Yes,Normal,31,Metro,22,High,Yes,133,232
+34,F,Yes,Sedentary,23,Metro,26,Normal,No,105,183
+57,F,Yes,Normal,46,Metro,20,High,Yes,147,258
+63,F,Yes,Normal,59,Urban,23,High,Yes,172,301
+49,M,No,Normal,37,Metro,27,Normal,Border,139,243
+38,M,No,Normal,48,Urban,27,High,Border,136,238
+65,F,No,Normal,51,Urban,26,High,Yes,171,300
+63,M,No,Normal,47,Urban,25,High,Yes,163,286
+26,F,Yes,Sedentary,49,Metro,21,High,Border,113,198
+20,F,No,Sedentary,60,Metro,19,High,No,114,199
+44,M,No,Normal,32,Metro,19,Normal,No,116,202
+55,F,No,Normal,56,Urban,23,High,Border,159,279
+75,M,Yes,Normal,46,Urban,19,Normal,Yes,168,294
+35,F,Yes,Normal,59,Urban,19,Normal,Border,131,230
+66,M,No,Normal,33,Urban,25,High,Border,153,268
+20,F,Yes,Normal,53,Metro,19,High,Border,107,186
+60,M,Yes,Normal,47,Metro,20,Normal,Yes,152,266
+36,F,Yes,Normal,39,Urban,20,High,Border,114,200
+44,F,No,Sedentary,22,Urban,24,High,No,113,198
+47,F,No,Normal,27,Urban,21,Normal,No,117,205
+48,F,No,Sedentary,23,Metro,21,Normal,No,115,200
+19,M,No,Normal,37,Metro,24,High,No,97,169
+45,F,No,Sedentary,36,Metro,25,Normal,Border,130,227
+52,M,No,Sedentary,39,Metro,24,High,Yes,140,245
+37,F,Yes,Sedentary,25,Metro,25,Normal,No,109,190
+70,M,Yes,Normal,24,Urban,20,High,Border,142,248
+46,M,No,Normal,24,Urban,25,High,No,119,208
+27,F,No,Normal,54,Metro,26,Normal,No,127,222
+31,F,No,Normal,46,Urban,23,High,No,119,209
+59,F,No,Normal,38,Urban,22,High,Border,145,253
+70,F,No,Normal,32,Urban,27,High,Border,160,280
+66,M,No,Normal,50,Metro,19,Normal,Border,161,282
+31,F,Yes,Normal,58,Metro,19,Normal,Border,125,219
+68,F,No,Normal,53,Urban,21,High,Yes,170,297
+30,F,Yes,Normal,36,Urban,21,High,No,105,184
+57,M,Yes,Normal,37,Urban,25,Normal,Border,146,255
+70,M,No,Normal,54,Urban,25,Normal,Yes,179,313
+18,M,Yes,Sedentary,35,Metro,26,High,Border,97,169
+36,M,No,Normal,57,Urban,20,Normal,No,132,231
+39,M,Yes,Normal,38,Urban,25,Normal,Border,124,217
+40,F,No,Sedentary,60,Metro,23,High,Yes,145,253
+68,M,Yes,Sedentary,47,Metro,24,High,Yes,168,294
+41,F,Yes,Normal,23,Metro,26,High,Border,113,198
+18,F,Yes,Normal,30,Metro,19,High,No,81,142
+31,M,No,Sedentary,44,Metro,22,High,Border,116,203
+45,M,Yes,Normal,51,Urban,20,Normal,Border,137,240
+23,F,Yes,Normal,25,Urban,26,High,No,93,162
+21,F,Yes,Sedentary,20,Metro,26,High,No,85,149
+42,M,No,Normal,47,Metro,24,High,Border,136,237
+57,F,No,Sedentary,49,Urban,20,Normal,Border,150,263
+34,M,No,Normal,60,Metro,20,Normal,No,133,232
+67,F,No,Normal,37,Metro,27,Normal,Border,161,282
+34,F,Yes,Normal,30,Urban,21,Normal,No,104,182
+65,M,No,Normal,39,Metro,22,Normal,Border,153,268
+64,M,Yes,Sedentary,58,Metro,26,Normal,Yes,177,310
+60,M,No,Normal,31,Urban,25,Normal,No,144,251
+26,M,Yes,Normal,40,Urban,26,Normal,No,112,195
+74,F,Yes,Normal,50,Urban,19,High,Yes,171,299
+53,F,No,Normal,59,Urban,23,High,Border,160,280
+39,M,Yes,Normal,43,Metro,20,Normal,Border,122,213
+36,M,Yes,Normal,32,Metro,19,High,Border,106,185
+45,M,No,Sedentary,22,Urban,24,High,No,114,200
+50,M,Yes,Sedentary,51,Urban,27,High,Yes,154,270
+58,F,Yes,Normal,35,Metro,24,High,Yes,144,251
+43,F,No,Normal,37,Urban,23,High,No,125,219
+75,M,No,Normal,57,Urban,27,High,Yes,191,335
+18,M,Yes,Sedentary,28,Urban,25,High,No,88,154
+45,M,Yes,Normal,40,Urban,24,High,Yes,132,231
+24,F,No,Normal,24,Metro,19,High,No,83,144
+43,M,No,Normal,20,Urban,21,Normal,No,105,184
+45,M,No,Sedentary,42,Metro,19,High,Border,127,222
+20,F,Yes,Normal,48,Metro,20,Normal,No,103,180
+54,F,No,Normal,42,Metro,21,Normal,No,141,247
+47,F,No,Sedentary,29,Metro,27,Normal,No,128,224
+58,F,No,Normal,23,Urban,27,Normal,No,136,238
+71,M,Yes,Sedentary,36,Metro,21,High,Yes,156,273
+74,F,No,Normal,33,Metro,27,Normal,Border,166,291
+58,F,No,Normal,26,Urban,24,High,No,135,235
+52,M,No,Sedentary,34,Urban,23,Normal,Border,134,234
+34,F,No,Sedentary,27,Urban,21,Normal,No,101,177
+49,M,Yes,Sedentary,22,Metro,22,Normal,Border,116,203
+45,M,Yes,Normal,58,Urban,27,High,Yes,155,271
+23,F,Yes,Sedentary,55,Urban,20,High,Border,114,199
+21,M,Yes,Normal,22,Metro,19,Normal,No,77,134
+57,M,Yes,Sedentary,46,Urban,20,High,Yes,147,258
+65,F,Yes,Normal,55,Metro,20,High,Yes,166,291
+63,F,Yes,Normal,48,Metro,26,High,Yes,166,290
+21,M,No,Normal,53,Metro,19,High,No,108,189
+40,M,Yes,Normal,45,Urban,24,High,Yes,131,229
+55,M,No,Normal,50,Urban,24,Normal,Border,155,271
+42,F,Yes,Normal,46,Urban,25,Normal,Border,136,238
+61,F,No,Normal,43,Urban,20,High,Border,149,261
+24,F,Yes,Normal,43,Metro,19,Normal,No,102,178
+48,F,No,Normal,23,Urban,27,High,No,124,216
+19,F,No,Normal,55,Urban,20,Normal,No,109,190
+44,M,Yes,Sedentary,58,Urban,27,High,Yes,154,269
+56,F,No,Normal,38,Metro,22,High,Border,141,247
+49,M,Yes,Sedentary,27,Urban,23,Normal,Border,123,215
+49,F,Yes,Sedentary,28,Metro,21,High,Border,121,211
+59,M,Yes,Normal,51,Urban,21,Normal,Yes,156,273
+22,F,Yes,Normal,30,Metro,27,Normal,No,98,172
+36,F,No,Sedentary,48,Metro,19,Normal,No,122,213
+62,F,No,Normal,20,Metro,22,High,No,131,228
+59,F,Yes,Sedentary,30,Urban,19,High,Border,132,231
+20,M,No,Normal,20,Metro,20,High,No,75,131
+49,F,No,Normal,26,Metro,19,High,No,116,203
+21,F,Yes,Normal,33,Metro,24,High,No,95,167
+40,M,No,Normal,47,Metro,25,High,Border,135,235
+32,F,No,Normal,52,Urban,27,High,Border,133,232
+23,F,No,Normal,44,Metro,24,High,No,109,190
+45,M,Yes,Normal,56,Urban,21,Normal,Border,144,252
+54,F,No,Sedentary,31,Urban,19,Normal,No,127,222
+53,M,Yes,Normal,49,Urban,21,Normal,Border,147,257
+75,F,Yes,Normal,37,Metro,26,Normal,Yes,170,297
+61,F,No,Normal,60,Urban,23,High,Yes,171,299
+61,F,No,Sedentary,34,Urban,20,Normal,No,140,245
+68,F,Yes,Normal,51,Urban,27,Normal,Yes,177,309
+66,M,No,Normal,51,Urban,20,High,Yes,164,286
+73,M,Yes,Sedentary,50,Urban,26,Normal,Yes,180,315
+70,F,Yes,Sedentary,23,Metro,23,High,Yes,145,254
+64,F,No,Normal,45,Urban,21,High,Border,157,274
+38,F,Yes,Normal,35,Metro,23,Normal,Border,117,205
+65,F,No,Normal,28,Metro,25,High,Border,147,257
+30,F,No,Sedentary,21,Metro,22,Normal,No,92,160
+60,M,No,Normal,27,Metro,25,High,Border,140,244
+71,F,Yes,Normal,54,Metro,23,High,Yes,177,310
+54,F,Yes,Normal,28,Metro,25,High,Yes,133,233
+53,M,No,Normal,59,Urban,22,High,Yes,158,277
+48,M,Yes,Sedentary,53,Metro,20,High,Yes,143,250
+35,F,Yes,Normal,31,Metro,20,High,Border,105,183
+44,M,Yes,Sedentary,54,Urban,19,Normal,Yes,138,241
+35,F,No,Normal,51,Urban,22,High,No,128,224
+52,F,No,Sedentary,41,Urban,26,Normal,Border,145,254
+30,F,Yes,Sedentary,54,Metro,22,Normal,Border,125,218
+54,F,No,Normal,46,Urban,21,High,Border,145,254
+21,F,No,Normal,58,Urban,24,High,No,120,210
+48,M,No,Normal,33,Urban,19,Normal,No,122,213
+41,F,Yes,Normal,48,Metro,19,Normal,Border,128,224
+60,F,No,Normal,42,Metro,23,High,Border,152,265
+39,F,No,Normal,46,Urban,27,High,Border,135,237
+47,M,Yes,Normal,28,Metro,24,Normal,Border,123,215
+53,F,Yes,Normal,41,Urban,25,High,Yes,145,253
+31,F,Yes,Normal,53,Urban,22,High,Border,125,218
+39,M,Yes,Sedentary,42,Urban,21,Normal,Border,122,214
+51,F,No,Normal,44,Metro,21,High,Border,139,244
+42,F,No,Sedentary,47,Metro,26,High,Yes,139,242
+71,F,No,Normal,38,Metro,25,High,Yes,164,287
+60,F,Yes,Normal,47,Metro,19,Normal,Border,151,263
+30,M,Yes,Sedentary,52,Urban,21,High,Yes,121,212
+70,F,Yes,Normal,26,Metro,21,Normal,Border,145,254
+70,F,No,Normal,54,Metro,22,Normal,Border,175,305
+56,F,No,Normal,38,Metro,24,Normal,Border,144,252
+46,F,Yes,Sedentary,27,Urban,22,Normal,No,118,206
+24,M,Yes,Sedentary,54,Metro,25,Normal,Border,122,213
+45,M,No,Normal,45,Urban,23,Normal,No,136,238
+34,F,No,Normal,27,Urban,19,High,No,98,172
+34,M,No,Normal,57,Metro,24,Normal,Border,136,237
+48,M,No,Sedentary,24,Urban,26,Normal,No,123,215
+71,M,No,Normal,47,Metro,21,Normal,Border,167,293
+37,F,No,Normal,33,Urban,23,High,No,114,199
+51,F,No,Normal,40,Urban,21,High,Border,135,237
+55,F,No,Sedentary,46,Metro,22,Normal,Border,148,259
+67,M,Yes,Sedentary,32,Metro,20,Normal,Yes,146,255
+38,F,No,Sedentary,55,Metro,19,High,Border,131,229
+42,F,No,Normal,52,Metro,24,Normal,Border,141,246
+36,F,Yes,Normal,40,Urban,27,High,Border,126,220
+52,F,Yes,Normal,60,Metro,23,Normal,Yes,160,279
+60,F,No,Normal,30,Metro,27,High,Border,146,255
+43,F,Yes,Normal,21,Urban,22,Normal,No,108,189
+66,M,Yes,Sedentary,44,Urban,21,High,Yes,158,277
+35,M,Yes,Normal,40,Urban,22,High,Border,117,204
+45,M,Yes,Normal,50,Metro,25,High,Yes,144,252
+27,M,Yes,Normal,50,Urban,20,High,Border,114,199
+20,F,No,Sedentary,48,Metro,22,High,No,106,186
+41,F,No,Normal,23,Urban,25,Normal,No,112,196
+48,F,Yes,Normal,24,Urban,27,High,Border,125,218
+48,F,No,Normal,45,Urban,19,Normal,No,134,234
+30,F,No,Normal,27,Metro,27,High,No,105,184
+19,F,Yes,Sedentary,50,Metro,27,Normal,Border,114,200
+45,F,Yes,Sedentary,22,Metro,25,High,Border,116,203
+52,F,Yes,Normal,35,Urban,27,High,Yes,141,246
+48,F,No,Normal,45,Metro,20,Normal,No,135,236
+61,M,Yes,Normal,30,Metro,26,Normal,Yes,145,254
+33,M,No,Normal,38,Urban,21,Normal,No,111,194
+69,F,No,Normal,32,Urban,22,High,Border,151,265
+58,F,No,Normal,41,Urban,24,High,Border,150,262
+58,F,Yes,Sedentary,28,Metro,25,Normal,Border,138,242
+51,F,No,Sedentary,38,Urban,20,Normal,No,132,231
+64,F,Yes,Normal,50,Urban,25,Normal,Yes,168,293
+18,M,Yes,Normal,44,Metro,22,Normal,No,100,174
+41,M,No,Normal,32,Metro,22,Normal,No,116,203
+35,F,Yes,Normal,27,Urban,22,High,No,104,182
+35,F,No,Normal,50,Urban,25,High,Border,131,230
+57,M,No,Normal,40,Urban,27,Normal,Border,152,266
+66,M,Yes,Normal,44,Urban,19,High,Yes,155,271
+22,M,Yes,Normal,48,Metro,25,Normal,Border,113,198
+65,M,No,Normal,59,Metro,24,Normal,Yes,176,308
+18,M,No,Sedentary,55,Urban,20,High,No,108,188
+28,M,Yes,Sedentary,41,Metro,27,High,Yes,117,204
+55,F,No,Normal,35,Metro,27,Normal,Border,144,252
+36,M,No,Sedentary,39,Urban,21,High,Border,116,202
+54,F,Yes,Sedentary,57,Urban,27,High,Yes,165,289
+58,M,Yes,Normal,60,Metro,21,High,Yes,164,287
+45,M,Yes,Normal,51,Urban,26,Normal,Yes,146,256
+58,M,No,Sedentary,31,Metro,22,Normal,Border,137,239
+63,M,No,Sedentary,22,Metro,27,High,Border,141,247
+67,F,Yes,Normal,28,Urban,20,Normal,Border,142,248
+37,M,Yes,Normal,53,Urban,22,High,Yes,132,231
+35,M,No,Normal,43,Metro,27,Normal,No,127,223
+49,F,Yes,Normal,37,Metro,23,Normal,Border,133,232
+50,F,No,Normal,38,Urban,23,Normal,No,135,236
+39,F,No,Normal,25,Metro,25,High,No,111,195
+70,F,No,Sedentary,29,Metro,24,High,Border,153,267
+39,M,No,Normal,56,Urban,20,High,Border,135,236
+56,M,Yes,Normal,25,Metro,22,Normal,Border,128,224
+45,M,No,Sedentary,31,Urban,24,Normal,No,123,216
+44,M,Yes,Sedentary,53,Metro,27,Normal,Yes,149,260
+23,M,Yes,Normal,53,Urban,24,High,Border,118,206
+54,M,No,Normal,21,Metro,20,High,No,119,207
+19,M,No,Normal,54,Metro,25,Normal,No,115,202
+18,F,No,Normal,37,Metro,26,Normal,No,99,172
+20,M,Yes,Sedentary,31,Metro,26,Normal,No,95,166
+26,F,Yes,Normal,54,Metro,22,Normal,Border,120,209
+44,F,No,Normal,21,Urban,25,Normal,No,114,199
+24,F,Yes,Sedentary,30,Metro,26,Normal,No,99,173
+21,F,Yes,Normal,40,Urban,26,High,No,105,184
+38,F,No,Normal,35,Urban,21,High,No,114,200
+62,M,No,Sedentary,29,Urban,19,High,Border,135,236
+25,F,Yes,Normal,39,Urban,23,High,No,105,183
+23,F,Yes,Sedentary,41,Urban,25,High,Border,107,188
+60,F,Yes,Sedentary,22,Metro,27,Normal,Border,138,241
+44,F,No,Sedentary,45,Metro,19,Normal,No,129,225
+20,M,Yes,Normal,32,Urban,19,Normal,No,86,150
+40,M,No,Normal,57,Urban,20,Normal,No,137,240
+41,M,No,Sedentary,23,Urban,26,Normal,No,113,198
+45,M,Yes,Normal,20,Metro,26,Normal,No,115,202
+34,M,Yes,Normal,37,Metro,19,Normal,No,108,189
+20,M,Yes,Normal,60,Urban,23,Normal,No,120,209
+36,M,Yes,Sedentary,27,Urban,20,Normal,No,102,179
+65,F,Yes,Sedentary,47,Urban,25,High,Yes,166,290
+30,M,Yes,Sedentary,55,Metro,20,Normal,Border,123,214
+39,F,No,Normal,25,Urban,26,High,No,113,197
+44,M,No,Normal,59,Urban,26,High,Yes,153,268
+58,F,Yes,Normal,58,Urban,27,High,Yes,171,299
+52,F,No,Sedentary,27,Metro,24,High,Border,128,224
+58,M,No,Normal,21,Metro,24,High,Border,130,227
+65,M,No,Normal,48,Metro,20,High,Yes,159,279
+38,M,No,Sedentary,22,Urban,24,High,No,106,185
+36,M,Yes,Sedentary,23,Metro,21,Normal,No,100,174
+31,M,No,Sedentary,58,Metro,19,Normal,Border,125,219
+19,F,No,Sedentary,45,Metro,27,Normal,No,109,191
+63,F,No,Normal,30,Urban,26,Normal,No,148,259
+63,M,No,Normal,27,Metro,22,High,Border,139,243
+47,M,No,Normal,23,Metro,27,High,Border,122,214
+73,F,No,Normal,37,Urban,22,Normal,No,161,282
+46,M,Yes,Sedentary,36,Metro,24,Normal,Yes,130,227
+39,F,No,Normal,35,Metro,21,Normal,No,115,202
+67,M,No,Normal,56,Urban,24,High,Yes,176,308
+42,F,Yes,Normal,20,Urban,20,High,No,103,179
+73,M,No,Normal,59,Metro,24,Normal,Yes,186,326
+68,F,No,Sedentary,23,Metro,19,High,Border,137,239
+66,F,No,Normal,30,Urban,22,Normal,No,146,255
+18,M,No,Sedentary,24,Metro,24,High,No,83,144
+40,M,No,Normal,53,Urban,24,Normal,Border,139,243
+55,F,Yes,Normal,54,Urban,27,High,Yes,163,286
+22,F,No,Normal,46,Urban,22,Normal,No,107,186
+55,M,No,Normal,24,Urban,22,Normal,No,126,220
+56,M,Yes,Normal,23,Metro,23,Normal,Border,128,223
+62,F,Yes,Normal,21,Metro,21,High,Border,130,228
+61,F,No,Normal,30,Urban,22,High,Border,139,244
+18,F,No,Normal,51,Metro,19,Normal,No,102,179
+68,M,Yes,Normal,51,Metro,23,Normal,Yes,171,298
+51,M,No,Normal,45,Metro,23,Normal,Border,143,251
+24,M,No,Normal,59,Urban,22,High,No,122,214
+29,F,No,Normal,29,Urban,25,High,No,103,180
+43,F,No,Sedentary,34,Urban,20,Normal,No,118,206
+64,M,Yes,Normal,35,Metro,19,High,Yes,144,251
+57,M,No,Sedentary,50,Urban,26,Normal,Yes,160,280
+54,F,Yes,Sedentary,22,Urban,26,High,Border,129,225
+19,F,No,Normal,60,Urban,22,Normal,No,117,204
+69,F,No,Normal,25,Urban,22,Normal,No,144,252
+32,M,No,Normal,41,Metro,27,High,Border,122,213
+71,F,Yes,Normal,60,Metro,24,High,Yes,185,323
+36,F,No,Sedentary,58,Urban,23,High,Border,138,241
+51,F,No,Sedentary,26,Metro,25,High,Border,127,223
+49,F,No,Normal,26,Metro,22,Normal,No,120,210
+30,F,Yes,Normal,30,Urban,24,High,No,104,181
+24,F,Yes,Normal,42,Metro,27,High,Border,113,197
+61,F,No,Normal,31,Metro,23,High,Border,142,248
+25,F,No,Normal,42,Metro,24,High,No,109,191
+22,F,Yes,Sedentary,33,Metro,24,Normal,No,97,169
+40,M,Yes,Normal,47,Urban,21,High,Yes,129,225
+70,M,Yes,Normal,50,Urban,23,High,Yes,172,301
+22,M,Yes,Sedentary,49,Urban,24,Normal,Border,113,197
+26,F,Yes,Normal,44,Metro,23,Normal,No,111,194
+47,M,Yes,Sedentary,51,Urban,21,Normal,Yes,141,247
+31,F,Yes,Sedentary,35,Metro,23,High,Border,108,189
+68,F,No,Normal,36,Urban,25,Normal,Border,159,277
+73,M,Yes,Normal,48,Metro,22,High,Yes,172,301
+42,F,No,Sedentary,49,Urban,26,Normal,Border,141,246
+27,M,Yes,Sedentary,40,Urban,24,High,Border,110,192
+66,M,Yes,Normal,21,Metro,21,High,Border,135,236
+21,F,No,Sedentary,31,Urban,19,Normal,No,86,150
+45,F,Yes,Normal,50,Metro,23,Normal,Border,141,246
+69,M,No,Normal,35,Metro,19,High,Border,150,262
+43,M,No,Normal,58,Urban,19,Normal,No,140,245
+73,F,Yes,Sedentary,34,Urban,25,High,Yes,163,285
+35,F,No,Sedentary,59,Metro,26,High,Yes,142,248
+22,M,No,Sedentary,40,Urban,21,Normal,No,99,173
+19,M,No,Normal,23,Urban,27,High,No,87,153
+61,M,Yes,Normal,52,Metro,22,High,Yes,161,282
+28,M,No,Normal,21,Metro,22,High,No,89,156
+24,M,Yes,Normal,34,Metro,25,Normal,No,102,178
+46,F,Yes,Sedentary,38,Metro,23,Normal,Border,130,228
+51,F,No,Normal,33,Metro,20,High,Border,127,222
+40,F,No,Sedentary,33,Urban,21,High,No,115,200
+31,F,Yes,Normal,37,Urban,25,High,Border,113,198
+44,F,No,Normal,49,Metro,20,High,Border,134,235
+46,M,Yes,Sedentary,44,Urban,22,High,Yes,135,235
+47,M,Yes,Normal,22,Urban,24,Normal,No,117,204
+19,F,Yes,Sedentary,55,Urban,20,Normal,No,109,190
+53,F,Yes,Normal,29,Urban,21,Normal,No,127,222
+55,F,No,Normal,29,Urban,23,Normal,No,132,231
+46,M,Yes,Sedentary,55,Metro,19,Normal,Yes,141,247
+52,F,Yes,Normal,30,Urban,23,Normal,Border,130,227
+30,M,Yes,Normal,44,Urban,26,Normal,Border,121,211
+63,M,Yes,Sedentary,53,Urban,22,High,Yes,165,288
+22,M,No,Normal,47,Urban,26,Normal,No,114,199
+29,F,Yes,Normal,20,Metro,20,Normal,No,86,151
+61,F,No,Normal,26,Metro,27,High,Border,143,250
+38,F,No,Sedentary,57,Metro,25,High,Yes,142,249
+48,F,Yes,Normal,48,Urban,23,High,Yes,143,249
+47,F,No,Normal,36,Urban,24,Normal,No,131,229
+47,M,No,Sedentary,58,Urban,24,Normal,Border,153,267
+31,F,No,Sedentary,55,Urban,25,Normal,No,131,230
+74,M,No,Normal,22,Urban,19,Normal,No,143,250
+75,F,No,Normal,23,Metro,26,High,Border,156,273
+70,M,Yes,Normal,53,Metro,25,High,Yes,178,312
+18,M,Yes,Normal,33,Metro,19,High,No,84,147
+45,F,No,Sedentary,51,Metro,20,Normal,Border,137,240
+50,M,No,Normal,38,Metro,21,High,Border,132,231
+44,F,No,Normal,50,Metro,27,Normal,Border,146,255
+49,M,Yes,Normal,39,Urban,26,Normal,Border,139,244
+45,F,Yes,Normal,28,Metro,20,Normal,No,114,200
+37,F,No,Normal,51,Metro,20,Normal,No,127,223
+56,M,Yes,Normal,39,Metro,26,High,Yes,148,259
+75,M,No,Sedentary,20,Urban,21,High,Border,145,254
+53,M,Yes,Active,35,Rural,21,High,No,133,232
+50,M,No,Active,21,Urban,21,High,No,115,201
+73,M,Not Sure,Sedentary,49,Urban,25,Normal,Yes,178,311
+26,F,Yes,Normal,28,Rural,25,Normal,No,98,172
+37,F,No,Active,32,Metro,25,Normal,No,116,203
+54,F,Not Sure,Normal,49,Urban,25,High,Yes,154,270
+32,M,Yes,Normal,21,Urban,27,High,No,102,178
+73,F,Yes,Sedentary,48,Urban,23,High,Yes,174,304
+60,M,No,Sedentary,58,Urban,21,Normal,Border,165,288
+72,F,No,Normal,36,Rural,20,Normal,No,156,273
+69,M,Yes,Normal,37,Rural,25,Normal,Border,161,281
+49,M,Not Sure,Active,54,Urban,25,High,Yes,153,267
+70,M,No,Normal,34,Metro,25,High,Yes,159,278
+68,F,Not Sure,Active,26,Urban,20,High,No,141,247
+38,M,Yes,Active,20,Rural,24,High,No,104,181
+58,M,No,Active,27,Metro,19,Normal,No,128,224
+43,F,Yes,Active,32,Urban,27,Normal,No,126,221
+67,M,No,Active,46,Metro,25,Normal,Border,167,293
+21,M,Not Sure,Active,44,Metro,27,Normal,No,111,194
+52,F,No,Normal,54,Metro,27,Normal,Border,160,279
+59,M,Not Sure,Normal,40,Urban,26,Normal,Border,153,267
+54,F,Yes,Normal,21,Rural,22,Normal,No,122,213
+29,M,Yes,Active,57,Urban,23,High,Border,128,224
+49,M,Yes,Active,40,Rural,22,High,No,134,235
+58,F,Not Sure,Sedentary,58,Urban,19,High,Yes,159,278
+47,M,Not Sure,Active,22,Metro,23,High,No,115,202
+64,F,No,Active,38,Metro,24,High,Border,154,270
+19,M,Yes,Sedentary,60,Urban,22,Normal,Border,117,204
+74,F,Yes,Normal,46,Rural,23,High,Yes,173,303
+69,F,Not Sure,Active,39,Rural,21,Normal,No,157,274
+27,M,Not Sure,Normal,24,Rural,26,Normal,No,97,169
+54,M,Not Sure,Normal,24,Urban,27,High,Border,132,231
+69,M,Not Sure,Sedentary,40,Rural,27,Normal,Border,167,292
+71,F,Yes,Sedentary,34,Rural,19,Normal,No,151,265
+22,F,No,Normal,30,Rural,23,Normal,No,92,161
+48,F,Not Sure,Normal,42,Metro,27,High,Yes,143,249
+27,F,Not Sure,Active,28,Rural,24,Normal,No,98,171
+50,F,No,Normal,31,Rural,25,High,No,131,229
+38,M,No,Active,28,Rural,23,Normal,No,110,193
+74,M,Not Sure,Active,38,Rural,25,High,Border,168,294
+73,M,Not Sure,Active,50,Rural,22,High,Border,174,305
+65,M,No,Active,60,Urban,26,Normal,Border,180,315
+65,M,Not Sure,Active,27,Rural,27,High,No,149,260
+38,M,Not Sure,Active,27,Rural,25,High,No,112,196
+52,M,Not Sure,Normal,27,Rural,21,Normal,No,124,216
+54,M,Not Sure,Normal,30,Urban,22,High,Border,131,228
+54,F,No,Normal,22,Rural,26,High,No,129,225
+34,F,Yes,Active,28,Urban,24,Normal,No,107,186
+42,F,Not Sure,Active,56,Rural,25,High,No,146,256
+58,M,No,Sedentary,28,Urban,24,Normal,No,137,239
+41,F,Not Sure,Active,31,Metro,25,Normal,No,120,210
+61,F,Not Sure,Active,56,Urban,20,High,Border,162,284
+65,M,No,Sedentary,41,Metro,27,Normal,Yes,163,285
+59,M,No,Normal,47,Urban,19,High,Border,149,261
+30,M,Not Sure,Active,37,Urban,21,Normal,No,106,186
+39,M,Not Sure,Normal,42,Metro,23,High,Border,125,219
+25,M,Not Sure,Normal,37,Metro,24,High,Border,104,182
+60,F,No,Sedentary,53,Rural,22,High,Border,161,282
+51,M,Yes,Sedentary,26,Urban,23,Normal,Border,124,217
+28,M,No,Normal,48,Rural,27,Normal,No,124,216
+35,F,Yes,Normal,31,Rural,21,High,No,106,186
+26,F,Not Sure,Active,46,Metro,24,Normal,No,115,200
+56,F,No,Normal,44,Urban,25,High,Border,152,265
+39,M,No,Active,29,Urban,25,High,No,115,202
+53,M,Not Sure,Active,35,Metro,26,Normal,Border,140,245
+65,M,Not Sure,Active,22,Metro,20,High,Border,133,233
+21,F,Not Sure,Active,60,Urban,24,High,No,122,214
+36,F,Yes,Active,34,Rural,22,Normal,No,112,196
+54,M,No,Active,50,Urban,23,High,Border,152,266
+59,F,No,Normal,57,Metro,20,Normal,Border,161,281
+33,M,Not Sure,Normal,23,Metro,26,High,No,103,181
+38,M,Not Sure,Normal,44,Rural,26,High,Border,131,228
+30,F,No,Active,33,Metro,24,High,No,107,186
+26,F,Yes,Active,31,Rural,27,Normal,No,104,182
+66,F,No,Sedentary,32,Metro,22,High,Border,148,258
+22,F,Not Sure,Active,31,Urban,22,Normal,No,92,160
+58,M,Not Sure,Active,53,Urban,24,High,Yes,162,283
+55,M,No,Sedentary,40,Metro,27,Normal,Border,149,261
+71,M,No,Normal,22,Metro,19,High,Border,139,244
+22,F,Not Sure,Active,52,Urban,25,High,No,117,205
+43,F,Yes,Normal,39,Metro,19,Normal,Border,121,212
+54,M,Not Sure,Normal,35,Urban,22,Normal,Border,136,237
+38,F,Not Sure,Sedentary,58,Rural,27,Normal,No,146,256
+50,M,No,Sedentary,26,Urban,21,Normal,No,120,210
+21,M,Not Sure,Normal,50,Rural,21,Normal,No,108,189
+68,M,Yes,Normal,20,Rural,20,Normal,No,135,236
+38,F,Not Sure,Active,60,Metro,23,High,Border,142,249
+56,F,Yes,Normal,43,Rural,22,High,Border,146,256
+28,F,Yes,Active,47,Urban,22,Normal,No,115,201
+59,M,Not Sure,Active,60,Metro,26,Normal,Yes,173,302
+48,F,No,Active,57,Urban,24,High,Border,153,268
+69,F,No,Active,52,Urban,25,Normal,Border,176,308
+33,M,No,Active,28,Urban,23,High,No,104,182
+37,F,Yes,Active,25,Urban,25,High,No,109,190
+19,F,Not Sure,Normal,56,Metro,23,High,No,114,200
+48,F,Yes,Normal,46,Urban,26,High,Yes,145,254
+24,M,Yes,Normal,56,Metro,22,High,Border,119,208
+73,M,Not Sure,Active,47,Metro,25,Normal,Yes,176,308
+22,M,Yes,Active,58,Rural,22,Normal,No,119,207
+40,F,Not Sure,Sedentary,26,Metro,19,Normal,No,105,183
+32,F,Yes,Active,54,Rural,30,Normal,No,139,243
+49,M,Yes,Active,51,Urban,37,High,Yes,168,294
+37,M,No,Sedentary,29,Rural,32,Normal,No,123,216
+72,F,No,Normal,22,Urban,31,Normal,No,159,277
+63,M,Not Sure,Active,37,Urban,26,High,Border,155,271
+68,M,No,Normal,46,Urban,37,High,Yes,187,326
+37,M,Not Sure,Normal,23,Rural,26,High,No,108,189
+55,M,Yes,Sedentary,50,Urban,25,High,Yes,156,273
+23,M,Yes,Sedentary,47,Rural,40,High,Border,136,238
+46,F,Not Sure,Normal,44,Urban,33,Normal,Border,151,264
+42,F,Yes,Normal,23,Metro,34,Normal,Border,127,221
+32,F,Yes,Active,50,Metro,33,Normal,Border,140,244
+19,M,No,Normal,39,Metro,30,High,No,108,189
+33,F,Yes,Active,57,Metro,30,High,Yes,143,251
+18,F,No,Active,42,Urban,39,Normal,No,123,215
+50,M,Not Sure,Active,32,Urban,35,High,Border,147,257
+63,F,Not Sure,Active,31,Rural,40,Normal,No,170,297
+55,M,Yes,Active,20,Rural,25,High,No,126,221
+47,M,Not Sure,Active,27,Metro,27,Normal,No,126,221
+24,M,Not Sure,Normal,39,Rural,38,High,No,126,221
+71,F,Not Sure,Normal,25,Metro,27,Normal,Border,154,270
+58,M,Yes,Normal,38,Rural,26,High,Border,150,262
+42,F,Yes,Active,24,Metro,25,High,No,114,200
+43,M,Not Sure,Active,57,Metro,36,High,Yes,165,288
+33,F,Not Sure,Sedentary,45,Metro,26,High,Yes,125,219
+63,F,Yes,Active,27,Urban,26,High,Border,145,253
+52,M,Not Sure,Active,49,Urban,36,Normal,Border,168,294
+50,M,No,Sedentary,58,Metro,24,High,Yes,157,274
+66,M,No,Normal,36,Urban,39,High,Yes,177,310
+33,F,No,Active,28,Urban,28,High,No,111,195
+49,F,Yes,Normal,21,Rural,32,Normal,No,130,228
+42,F,Yes,Normal,56,Rural,36,High,Yes,163,284
+43,F,No,Sedentary,32,Rural,25,High,No,123,216
+48,F,Yes,Sedentary,43,Metro,24,Normal,Yes,139,243
+22,M,Yes,Normal,32,Urban,32,Normal,No,108,188
+22,F,Not Sure,Normal,45,Rural,28,High,No,115,200
+39,F,Not Sure,Active,29,Metro,24,Normal,No,114,199
+43,M,Yes,Normal,36,Rural,32,High,Border,138,241
+75,M,No,Active,28,Metro,24,High,Border,158,276
+42,M,Yes,Active,50,Urban,39,Normal,Yes,161,282
+72,M,Yes,Active,38,Urban,30,Normal,Yes,173,303
+41,F,Not Sure,Active,24,Metro,35,High,Border,128,224
+67,F,No,Active,57,Urban,40,High,Yes,201,351
+52,F,No,Active,25,Metro,30,High,No,135,236
+61,M,No,Normal,51,Rural,40,Normal,Border,187,328
+68,M,Not Sure,Normal,29,Rural,40,High,Yes,174,305
+54,M,Yes,Normal,51,Rural,39,High,Yes,177,310
+47,M,No,Active,25,Metro,32,Normal,No,132,231
+63,F,Not Sure,Active,30,Urban,25,High,Border,146,256
+20,F,Yes,Sedentary,35,Rural,39,Normal,No,119,207
+36,M,Not Sure,Active,50,Urban,39,Normal,Border,154,269
+36,F,Yes,Active,36,Rural,39,High,No,140,244
+42,M,No,Sedentary,47,Urban,38,Normal,Yes,157,274
+52,M,Yes,Normal,34,Metro,35,High,Yes,152,265
+70,M,No,Active,58,Metro,27,High,Yes,186,326
+40,M,No,Normal,48,Urban,36,High,Yes,152,266
+48,F,No,Normal,44,Rural,35,Normal,No,157,274
+55,F,No,Sedentary,34,Rural,35,High,Border,155,272
+57,F,Not Sure,Sedentary,38,Metro,38,High,Yes,166,291
+56,F,Not Sure,Normal,34,Urban,37,High,Yes,160,279
+25,M,No,Normal,59,Rural,33,Normal,No,140,245
+29,M,No,Active,30,Rural,33,Normal,No,116,203
+55,F,Not Sure,Normal,28,Rural,26,High,No,136,238
+35,M,Not Sure,Active,44,Urban,35,High,Border,140,245
+26,M,Not Sure,Active,32,Urban,29,Normal,No,108,189
+43,M,No,Active,51,Rural,29,High,No,148,259
+60,F,Yes,Active,59,Rural,25,High,Border,172,300
+29,F,No,Active,22,Metro,33,Normal,No,108,189
+65,M,Yes,Active,60,Metro,32,Normal,Yes,189,331
+28,F,Not Sure,Normal,21,Urban,31,High,No,103,179
+46,F,Not Sure,Normal,21,Urban,35,High,Border,131,229
+32,F,Not Sure,Normal,58,Urban,39,High,Yes,157,274
+61,M,Yes,Active,27,Rural,39,Normal,No,162,283
+19,F,Yes,Active,46,Metro,24,High,No,106,185
+42,M,No,Sedentary,35,Metro,40,High,Yes,148,258
+30,F,Not Sure,Active,34,Metro,37,High,Border,127,222
+23,F,No,Active,59,Metro,30,High,No,133,232
+68,M,Yes,Sedentary,30,Rural,39,Normal,Yes,174,304
+56,F,Not Sure,Normal,56,Metro,25,High,Yes,164,286
+42,M,Not Sure,Active,50,Metro,38,High,Yes,160,279
+52,F,Not Sure,Normal,49,Metro,30,High,Yes,159,278
+46,F,No,Normal,54,Metro,35,High,Yes,164,287
+29,M,Yes,Sedentary,36,Metro,38,High,Yes,129,226
+40,F,No,Sedentary,32,Rural,26,Normal,No,121,212
+62,M,Not Sure,Normal,26,Rural,28,Normal,No,146,255
+68,M,Yes,Normal,49,Urban,37,Normal,Yes,190,332
+36,F,No,Active,60,Metro,25,Normal,No,143,249
+58,F,No,Normal,30,Rural,33,High,No,152,266
+24,F,Yes,Active,32,Metro,28,High,No,104,182
+26,M,No,Active,33,Urban,33,Normal,No,115,201
+48,F,Not Sure,Active,23,Urban,32,High,No,131,229
+46,F,Not Sure,Active,42,Urban,28,Normal,No,142,248
+43,F,Not Sure,Active,58,Urban,40,Normal,Border,172,301
+68,M,No,Active,52,Rural,27,Normal,No,178,311
+27,M,No,Normal,45,Urban,30,High,Border,124,217
+61,M,No,Normal,42,Rural,25,Normal,No,156,273
+48,M,No,Normal,45,Metro,37,High,Yes,161,281
+45,F,No,Active,48,Urban,40,Normal,Border,164,287
+57,M,No,Active,22,Metro,36,High,Border,147,258
+45,F,Not Sure,Sedentary,32,Urban,32,Normal,Border,136,238
+70,F,No,Active,23,Metro,30,Normal,No,156,272
+59,F,No,Active,29,Rural,32,High,No,151,264
+53,F,Yes,Sedentary,53,Rural,28,Normal,Border,161,282
+26,F,Yes,Normal,35,Rural,30,Low,No,113,197
+50,F,No,Active,60,Metro,36,High,Yes,177,309
+28,F,Not Sure,Normal,39,Metro,32,Normal,No,122,214
+46,F,Not Sure,Normal,27,Metro,24,Normal,No,121,211
+29,F,No,Sedentary,33,Metro,39,High,Border,128,224
+51,F,Yes,Sedentary,35,Rural,32,Normal,Border,147,257
+57,F,Not Sure,Normal,28,Urban,35,Low,No,152,266
+26,F,No,Normal,44,Metro,24,High,No,113,197
+20,F,Yes,Active,28,Rural,26,Normal,No,92,161
+62,F,Yes,Normal,57,Metro,38,Normal,Yes,192,335
+64,M,Not Sure,Active,29,Urban,34,High,Yes,160,280
+74,M,No,Active,30,Urban,40,Normal,Border,183,319
+52,M,Not Sure,Active,51,Metro,27,Low,No,157,274
+41,M,Yes,Active,32,Rural,31,High,No,130,227
+45,M,Yes,Active,30,Rural,34,Normal,No,137,240
+40,F,Not Sure,Active,30,Rural,29,Normal,No,124,216
+23,F,No,Normal,58,Rural,28,High,No,129,225
+35,M,Yes,Normal,28,Rural,33,Normal,No,121,212
+38,M,Yes,Normal,54,Urban,34,Low,Border,153,267
+55,M,No,Active,52,Rural,31,High,Border,167,293
+40,F,Yes,Active,25,Rural,37,Normal,No,131,228
+51,F,Not Sure,Sedentary,25,Urban,39,Normal,Border,147,258
+68,F,Not Sure,Active,55,Rural,31,High,Border,187,326
+68,M,Not Sure,Active,25,Metro,25,Normal,Border,148,258
+69,F,No,Sedentary,38,Urban,39,Low,Border,183,320
+69,F,Yes,Normal,45,Rural,29,High,Yes,175,306
+39,F,Not Sure,Active,58,Urban,34,Normal,Border,158,276
+56,F,Yes,Normal,38,Metro,33,Normal,Yes,158,276
+67,M,Yes,Normal,40,Urban,30,High,Yes,169,295
+66,F,No,Sedentary,47,Rural,36,Normal,Border,184,321
+59,F,No,Sedentary,43,Metro,30,Low,No,162,283
+57,M,Not Sure,Normal,28,Rural,35,High,Border,152,266
+19,F,Yes,Normal,50,Urban,36,Normal,No,128,224
+30,F,No,Active,52,Metro,38,Normal,No,147,256
+58,F,No,Normal,60,Rural,28,High,Border,175,305
+73,F,Not Sure,Active,51,Urban,29,Normal,Border,186,325
+50,F,Yes,Active,21,Rural,30,Low,No,129,225
+35,F,Yes,Active,50,Rural,26,High,No,133,232
+68,M,Yes,Active,24,Urban,37,Normal,Border,165,288
+30,M,No,Active,38,Metro,39,Normal,No,134,235
+73,M,Not Sure,Active,24,Metro,30,High,Yes,160,280
+42,M,Not Sure,Normal,40,Urban,26,Normal,Border,132,230
+33,F,No,Normal,56,Metro,28,Low,No,139,244
+32,F,Yes,Normal,24,Rural,32,High,No,112,196
+24,F,No,Active,50,Rural,39,Normal,No,139,242
+31,M,No,Active,51,Rural,33,Normal,No,139,244
+27,M,Not Sure,Sedentary,31,Urban,32,High,Border,113,197
+40,M,Not Sure,Active,25,Urban,39,Normal,No,134,234
+51,M,Yes,Active,21,Urban,31,Low,No,131,230
+23,M,Not Sure,Sedentary,52,Metro,32,High,Yes,129,225
+56,M,Yes,Normal,37,Metro,40,Normal,Yes,167,292
+73,M,No,Active,27,Urban,32,Normal,No,166,291
+19,F,No,Normal,49,Urban,35,High,No,125,219
+46,M,Not Sure,Normal,37,Urban,30,Normal,Border,140,244
+24,F,No,Sedentary,59,Metro,28,Low,No,131,229
+39,M,Yes,Sedentary,42,Rural,27,High,Border,131,230
+24,F,Not Sure,Normal,58,Metro,36,Normal,Border,142,249
+34,F,Not Sure,Normal,24,Rural,27,Normal,No,107,187
+47,F,Yes,Active,36,Metro,37,High,Yes,150,263
+50,F,No,Normal,35,Metro,29,Normal,Border,141,247
+44,M,Yes,Active,59,Urban,27,Low,No,155,270
+25,F,Not Sure,Active,48,Urban,34,High,Border,130,228
+72,F,Not Sure,Active,26,Rural,36,Normal,No,170,298
+18,F,No,Active,60,Urban,26,Normal,No,122,213
+27,F,No,Active,42,Urban,38,High,No,133,232
+18,M,Not Sure,Active,25,Metro,24,Normal,No,84,146
+42,M,Not Sure,Normal,26,Metro,24,Low,No,115,200
+75,F,Yes,Normal,33,Metro,28,High,Yes,169,295
+61,M,Yes,Normal,48,Rural,30,Normal,Border,169,296
+20,F,No,Active,50,Rural,28,Normal,No,117,205
+24,F,No,Active,23,Rural,34,High,No,104,182
+20,F,Not Sure,Sedentary,44,Rural,35,Normal,No,122,213
+70,M,Yes,Active,40,Rural,29,Low,No,171,299
+61,M,Yes,Active,21,Metro,26,High,Border,136,238
+44,M,No,Sedentary,34,Urban,32,Normal,Border,137,240
+40,M,No,Normal,49,Urban,39,Normal,Border,158,276
+70,F,Not Sure,Active,51,Rural,38,High,Yes,196,342
+53,M,No,Normal,20,Metro,27,Normal,No,127,222
+21,M,Not Sure,Normal,47,Urban,30,Low,No,118,207
+20,M,Not Sure,Sedentary,49,Urban,28,High,Border,116,203
+20,M,No,Sedentary,33,Urban,34,Normal,No,109,191
+20,M,No,Normal,38,Metro,35,Normal,No,116,202
+56,M,No,Normal,27,Urban,28,High,Border,139,243
+24,M,Not Sure,Active,59,Rural,26,Normal,No,128,224
+54,F,Not Sure,Normal,34,Urban,25,Low,No,139,243
+31,M,Yes,Active,35,Urban,35,High,Border,126,221
+74,F,Not Sure,Active,26,Rural,33,Normal,No,168,294
+61,M,Not Sure,Active,21,Rural,31,Normal,No,144,252
+68,F,No,Active,48,Urban,25,High,Border,171,298
+51,F,Not Sure,Active,43,Rural,36,Normal,No,161,281
+28,M,Yes,Active,45,Urban,29,Low,No,124,216
+30,F,Yes,Normal,27,Urban,33,High,Border,114,200
+49,M,No,Normal,47,Metro,30,Normal,Border,153,268
+51,M,Yes,Normal,23,Urban,27,Normal,Border,127,223
+69,F,No,Active,31,Rural,30,High,No,162,284
+49,M,Yes,Active,26,Rural,26,Normal,No,126,221
+65,M,Yes,Sedentary,46,Rural,40,Low,Border,187,328
+19,M,Not Sure,Active,49,Urban,37,High,Border,128,224
+25,M,Yes,Active,45,Rural,38,Normal,No,133,233
+44,F,Yes,Sedentary,25,Rural,33,Normal,No,130,227
+35,M,Yes,Normal,28,Urban,28,High,Border,114,199
+26,F,Yes,Active,54,Urban,31,Normal,No,133,233
+51,F,Not Sure,Normal,38,Urban,25,Low,No,139,244
+56,M,Not Sure,Normal,24,Metro,33,High,Yes,144,251
+40,M,Yes,Sedentary,34,Urban,31,Normal,Border,131,228
+26,F,Not Sure,Sedentary,59,Metro,27,Normal,Border,132,231
+19,M,Not Sure,Normal,29,Rural,26,High,No,92,161
+68,F,Yes,Normal,49,Rural,24,Normal,Border,170,298
+48,M,Not Sure,Active,51,Urban,40,Low,No,171,299
+26,M,No,Normal,38,Urban,35,High,Border,123,215
+36,F,No,Active,33,Metro,40,Normal,No,138,242
+21,M,Yes,Active,48,Rural,26,Normal,No,113,198
+73,F,Yes,Active,45,Metro,28,High,Yes,178,312
+72,M,Yes,Active,33,Rural,40,Normal,Border,183,320
+52,F,Yes,Active,39,Rural,35,Low,No,157,274
+22,F,Yes,Active,29,Rural,35,High,No,109,191
+75,F,Not Sure,Normal,35,Rural,37,Normal,Border,184,322
+53,F,No,Normal,28,Rural,30,Normal,No,139,244
+27,F,No,Normal,46,Metro,32,High,Border,128,224
+60,F,Yes,Active,41,Metro,39,Normal,Yes,175,305
+28,F,No,Active,42,Urban,39,Low,No,136,237
+34,F,No,Sedentary,20,Metro,27,High,No,103,180
+66,F,Not Sure,Active,22,Rural,34,Normal,No,156,272
+34,M,Yes,Active,55,Urban,29,Normal,Border,141,247
+43,M,No,Sedentary,39,Metro,31,High,Yes,139,244
+58,M,Not Sure,Normal,60,Urban,38,Normal,Yes,190,332
+75,M,Not Sure,Active,31,Rural,28,Low,No,167,292
+71,M,Yes,Normal,58,Metro,40,High,Yes,207,362
+54,M,Not Sure,Normal,42,Metro,24,Normal,Border,146,255
+62,F,Not Sure,Sedentary,28,Metro,35,Normal,Yes,158,277
+48,M,Yes,Sedentary,25,Urban,40,High,Yes,145,254
+37,F,Not Sure,Normal,34,Urban,30,Normal,No,125,219
+72,F,Not Sure,Normal,43,Urban,35,Low,Border,186,325
+75,F,Yes,Active,33,Urban,32,High,Yes,175,306
+18,M,No,Normal,36,Metro,25,Normal,No,96,168
+61,M,No,Active,56,Urban,24,Normal,Border,168,294
+31,M,Yes,Active,29,Rural,31,High,No,114,200
+30,F,No,Active,41,Metro,24,Normal,No,115,200
+48,M,Not Sure,Active,60,Metro,36,Low,Border,174,305
+29,F,Yes,Active,25,Rural,31,High,No,108,189
+70,M,Not Sure,Active,58,Metro,35,Normal,Yes,198,347
+27,M,Yes,Normal,26,Rural,29,Normal,No,103,181
+42,M,Not Sure,Normal,38,Rural,26,High,Border,130,227
+44,M,Yes,Normal,48,Rural,40,Normal,Border,163,285
+64,F,Not Sure,Active,49,Metro,26,Low,No,168,294
+36,M,Not Sure,Active,24,Urban,38,High,No,126,221
+60,F,Not Sure,Sedentary,36,Urban,34,Normal,Yes,162,284
+28,M,Not Sure,Active,42,Urban,36,Normal,No,131,229
+66,M,Yes,Active,46,Urban,31,High,Yes,175,306
+27,M,Yes,Sedentary,21,Metro,31,Normal,No,101,177
+34,M,Not Sure,Normal,47,Metro,26,Low,No,129,225
+30,M,Yes,Active,51,Urban,33,High,Yes,138,242
+39,F,No,Normal,43,Rural,29,Normal,No,135,237
+23,M,No,Normal,34,Metro,32,Normal,No,111,194
+23,F,Yes,Sedentary,47,Rural,30,High,Border,121,211
+42,M,Yes,Sedentary,46,Metro,28,Normal,Yes,141,246
+68,M,No,Normal,50,Rural,29,Low,No,179,312
+21,F,Not Sure,Normal,58,Metro,38,High,Yes,141,247
+43,M,Not Sure,Active,37,Rural,40,Normal,No,151,264
+37,F,No,Normal,26,Urban,34,Normal,No,123,216
+34,M,Yes,Active,40,Urban,26,High,Border,122,213
+35,F,Not Sure,Active,52,Rural,25,Normal,No,133,233
+66,M,No,Active,26,Urban,33,Low,No,158,277
+33,F,Yes,Active,51,Rural,39,High,Border,151,264
+34,M,Yes,Active,51,Metro,40,Normal,Yes,154,269
+24,M,Not Sure,Active,57,Urban,32,Normal,No,135,236
+69,M,No,Normal,55,Urban,33,High,Yes,191,334
+24,F,Yes,Normal,26,Rural,31,Normal,No,103,179
+26,M,No,Normal,41,Metro,31,Low,No,120,210
+67,M,Yes,Active,44,Metro,24,High,Yes,164,287
+50,M,No,Active,34,Metro,36,Normal,Border,151,263
+41,M,No,Sedentary,20,Urban,39,Normal,No,130,227
+46,F,Yes,Active,47,Rural,27,High,Border,145,254
+28,F,Yes,Active,35,Metro,38,Normal,No,127,222
+57,F,No,Sedentary,38,Rural,33,Low,No,159,278
+24,M,Yes,Normal,54,Rural,29,High,Border,128,223
+59,M,Yes,Active,25,Urban,28,Normal,Border,141,246
+31,M,Yes,Normal,27,Rural,38,Normal,No,123,215
+38,M,Not Sure,Normal,42,Urban,27,High,Border,130,228
+30,F,No,Sedentary,52,Rural,26,Normal,No,129,225
+50,M,Not Sure,Sedentary,23,Rural,27,Low,No,126,221
+20,M,Yes,Normal,40,Metro,32,High,Border,113,198
+20,F,No,Normal,48,Urban,37,Normal,No,129,225
+24,M,No,Active,24,Rural,32,Normal,No,102,179
+49,M,No,Normal,59,Rural,28,High,Border,162,284
+24,F,Not Sure,Active,52,Metro,30,Normal,No,127,222
+28,F,Yes,Active,37,Metro,36,Low,No,126,221
+47,M,Not Sure,Active,25,Rural,35,High,No,136,238
+31,M,Not Sure,Active,55,Metro,33,Normal,Border,143,251
+38,M,Not Sure,Active,60,Metro,37,Normal,Yes,163,285
+25,M,Not Sure,Active,34,Urban,37,High,No,121,211
+23,F,Yes,Normal,27,Urban,39,Normal,No,114,200
+21,F,Yes,Normal,39,Rural,39,Low,No,124,217
+35,F,No,Normal,23,Metro,37,High,No,122,214
+62,M,No,Active,43,Rural,24,Normal,No,157,274
+71,F,No,Active,32,Metro,26,Normal,No,160,280
+64,M,Yes,Normal,29,Urban,35,High,Yes,162,283
